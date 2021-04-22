@@ -1,0 +1,23 @@
+
+button {
+    border-radius: 10px;
+    width: 120px;
+    height: 50px;
+    padding: 0;
+  }
+  
+  div {
+    font-size: 80px;
+  }
+  
+  .number-button {
+    background-color: white;
+  }
+  
+  .operator {
+    background-color: gray;
+  }
+
+  .enter-button{
+    background-color: skyblue;
+  }
